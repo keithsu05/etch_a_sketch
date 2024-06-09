@@ -1,12 +1,26 @@
+
+
 #container{
+    width: 800px;
+    height: 800px;
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    border-color: black;
+    background-color: blueviolet;
+    
+    
+    
    
 }
 
-.boxes{
-    display: flex;
-    
+
+
+.squareDiv:hover{
+    color: aqua;
+    background-color: black;
 }
 
