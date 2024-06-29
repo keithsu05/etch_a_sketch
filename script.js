@@ -21,7 +21,7 @@ for(let i=1; i<=columns; ++i)
         
         container.appendChild(box)
     }
-}  container.style.
+}  
 }
 
 createGrid(16,16)
